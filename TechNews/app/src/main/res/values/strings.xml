@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TechNews from the Guardian</string>
+    <string name="date">Date:</string>
+    <string name="author">By:</string>
+    <string name="section">Section:</string>
+    <string name="button">Refresh</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_weblink">Web link not found for this book.</string>
+</resources>
